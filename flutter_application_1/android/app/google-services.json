@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423243144729",
+    "project_id": "duochat-fc84d",
+    "storage_bucket": "duochat-fc84d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423243144729:android:e65cb09b73bf6860741488",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTeVTxeo5IZSTLCMszU4Jw39TnAdUxa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
